@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Chess, Martial Arts
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on dev community
-- 📫 How to reach me mzadib5@gmail.com
+- 📫 How to reach me: mzadib5@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love eating so much 
 
