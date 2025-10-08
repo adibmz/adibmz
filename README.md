@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on dev community
 - 📫 How to reach me: mzadib5@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love eating so much 
 
 <!---
 adibmz/adibmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
