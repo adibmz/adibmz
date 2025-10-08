@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adibmz
-- 👀 I’m interested in Web Development, Chess, Martial Arts
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on dev community
 - 📫 How to reach me: mzadib5@gmail.com
