@@ -44,7 +44,7 @@ My focus areas:
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </p>
 
 ### 🗄️ Databases & Caching
