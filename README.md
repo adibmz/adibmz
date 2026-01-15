@@ -61,7 +61,7 @@ My focus areas:
 
 ## 💼 What I Solve
 - End-to-end web applications (frontend → backend → DB → deployment)  
-- APIs: REST / GraphQL, auth, third-party integrations  
+- APIs: REST, auth, third-party integrations  
 - System design: scalability, reliability, maintainability  
 - Performance optimizations: caching, DB tuning, bundle size reduction  
 - CI/CD, Dockerization, Linux server deployment
