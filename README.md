@@ -9,10 +9,10 @@
 <a href="https://github.com/adibmz">
   <img src="https://img.shields.io/badge/GitHub-adibmz-111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!-- Add these when you have links:
-<a href="https://www.linkedin.com/in/YOUR_LINK/">
+<a href="https://www.linkedin.com/in/adib-mezouar/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<!-- Add these when you have links:
 <a href="https://YOUR_PORTFOLIO/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-222?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -39,7 +39,7 @@ My focus areas:
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
 </p>
 
 ### 🧠 Backend
@@ -54,7 +54,7 @@ My focus areas:
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman" />
 </p>
 
 ---
@@ -62,10 +62,8 @@ My focus areas:
 ## 💼 What I Solve
 - End-to-end web applications (frontend → backend → DB → deployment)  
 - APIs: REST, auth, third-party integrations  
-- System design: scalability, reliability, maintainability  
-- Performance optimizations: caching, DB tuning, bundle size reduction  
-- CI/CD, Dockerization, Linux server deployment
-
+- System design: scalability, reliability, maintainability
+  
 ---
 
 ## 📌 Featured Projects
