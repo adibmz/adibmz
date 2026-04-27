@@ -54,7 +54,7 @@ My focus areas:
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,docker" />
 </p>
 
 ---
